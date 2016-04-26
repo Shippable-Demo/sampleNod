@@ -7,4 +7,5 @@ node_js:
 
 build:
     ci:
-    - echo "hello world"
+    - npm install
+    - npm test
