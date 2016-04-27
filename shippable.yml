@@ -1,11 +1,9 @@
-# Language setting
 language: node_js
 
-# Version number
 node_js:
   - 0.12
 
 build:
     ci:
       - npm install
-      - npm test 
+      - npm test
