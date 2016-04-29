@@ -1,7 +1,7 @@
 # sampleNod
-This repository contains the files necessary to run a sample application in NodeJS and to run CI tests on Shippable.
+This repository contains the files necessary to run a sample application in Node.js and to run CI tests on Shippable.
 
-This NodeJS app is a basic two-tier web app consisting of a front-end web service and a back-end api service.
+This Node.js app is a basic two-tier web app consisting of a front-end web service and a back-end api service.
 
 
 
