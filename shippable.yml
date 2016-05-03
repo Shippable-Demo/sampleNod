@@ -3,6 +3,8 @@ language: node_js
 node_js:
      - 0.12
 
+env:
+     secure: Ydx8g75AjKSgcX8ClPROZhSqCbjse5indy3+2R+bAY8WFe/j8TEWwelqAisheluRhnsKrsQbmTtZi0IY0RN6OmAnOh6sjEouMO3IWCnoK9dOeRCLrioaNzGIqSd/GJtTcw5ZIkYmhG6sQf5yLI3Frg/EB2HkXg2am4XG/3R8uiGni4fBGbQ1nS7AmLjR7bQYlgXmASX1I3P0opQL4o1Jolr+BlckBxaHSYcrutfcpe9ZXu619nDD3GmXP3qY/dmtdXLLHUGEOqmqT+VueNQLgcMSJshCc+wa5AT3dEvpZkTx6EEP7c6qW2g5bmAxlDKKhn+g4onivA32RSmVvhshkw==
 build:
      ci:
           - npm install
