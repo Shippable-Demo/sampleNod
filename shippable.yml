@@ -4,6 +4,6 @@ node_js:
      - 0.12
 
 build:
-     - npm install
-     - npm test
-     
+     ci:
+        - npm install
+        - npm test
