@@ -3,7 +3,10 @@ This repository contains the files necessary to run a sample application in Node
 
 This Node.js app is a basic two-tier web app consisting of a front-end web service and a back-end api service.
 
+# Status Badge:
+[![Run Status](https://api.shippable.com/projects/571565062a8192902e1d1ca5/badge?branch=master)](https://app.shippable.com/projects/571565062a8192902e1d1ca5)
 
+URL:  https://api.shippable.com/projects/571565062a8192902e1d1ca5/badge?branch=master 
 
 Contents:
 This repository has 6 files and the functions of each file are as follows:
